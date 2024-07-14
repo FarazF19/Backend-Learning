@@ -1,0 +1,8 @@
+Hey Faraz Asyncy there
+{Date.now()} Hey there
+1720955977078 Hey there
+1720955984145 Hey there
+1720956062995 Hey there
+1720956113159 Hey there
+1720956127321 Hey there
+1720956144854 Hey there
